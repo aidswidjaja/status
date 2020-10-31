@@ -10,6 +10,8 @@ affected:
 section: issue
 ---
 
-bchan is currently down due to a deployment on the production server gone wrong. I will aim to restore services soon! {{< track "2020-05-31 14:20:00" >}}
+bchan is currently down due to a deployment on the production server gone wrong. I will aim to restore services soon!
+
+*Update*: it appears that during the deploymnet the server was overloaded. Currently investigating how to bring it back to normal operation.
 
 And happy halloween!

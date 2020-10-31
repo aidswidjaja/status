@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Issues on aidswidjaja status page</title>
+    <link>https://status.adrian.id.au/issues/</link>
+    <description>Recent content in Issues on aidswidjaja status page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Aug 2020 14:16:00 +0000</lastBuildDate><atom:link href="https://status.adrian.id.au/issues/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bchan is inaccessible</title>
+      <link>https://status.adrian.id.au/issues/bchan/</link>
+      <pubDate>Mon, 31 Aug 2020 14:16:00 +0000</pubDate>
+      
+      <guid>https://status.adrian.id.au/issues/bchan/</guid>
+      <description>bchan is currently down due to a deployment on the production server gone wrong. I will aim to restore services soon!
+Update: it appears that during the deploymnet the server was overloaded. Currently investigating how to bring it back to normal operation.
+And happy halloween!</description>
+    </item>
+    
+  </channel>
+</rss>
