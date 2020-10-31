@@ -6,16 +6,14 @@
     <description>Recent content in Email server on aidswidjaja status page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2020 14:16:00 +0000</lastBuildDate><atom:link href="https://status.adrian.id.au/affected/email-server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2020 14:16:00 +0000</lastBuildDate><atom:link href="https://status.adrian.id.au/affected/email-server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bchan is inaccessible</title>
       <link>https://status.adrian.id.au/issues/bchan/</link>
-      <pubDate>Mon, 31 Aug 2020 14:16:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2020 14:16:00 +0000</pubDate>
       
       <guid>https://status.adrian.id.au/issues/bchan/</guid>
-      <description>Monitoring: it appears that during the deploymnet the server was overloaded. Currently investigating how to bring it back to normal operation. https://gyazo.com/b0fe70c4e777002c9a87428ede03b58d Currently we are trying to shut down the virtual machine and deallocate it, since we can&amp;rsquo;t ssh into the server.
-Investigating: bchan is currently down due to a deployment on the production server gone wrong. I will aim to restore services soon!
-And happy halloween!</description>
+      <description>Resolved: thanks guys! We managed to get it back up and running by resetting the VM (haha turn your computer off and on again go brrrr) and that seems to have ironed out any problems it had before. We&amp;rsquo;re still seeing slightly more latency than usual (and you may get 502 Bad Gateway errors more often) but we&amp;rsquo;re hoping this evens out - we&amp;rsquo;re already seeing CPU usage gradually returning to normal.</description>
     </item>
     
   </channel>
