@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://status.adrian.id.au/affected/api/</loc>
+    <lastmod>2020-08-31T14:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://status.adrian.id.au/affected/bchan/</loc>
     <lastmod>2020-08-31T14:16:00+00:00</lastmod>
   </url>
@@ -23,7 +28,22 @@
   </url>
   
   <url>
+    <loc>https://status.adrian.id.au/affected/cdn/</loc>
+    <lastmod>2020-08-31T14:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://status.adrian.id.au/affected/email-server/</loc>
+    <lastmod>2020-08-31T14:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://status.adrian.id.au/issues/</loc>
+    <lastmod>2020-08-31T14:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://status.adrian.id.au/affected/web-server-sydney/</loc>
     <lastmod>2020-08-31T14:16:00+00:00</lastmod>
   </url>
   
