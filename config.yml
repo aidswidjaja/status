@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: aidswidjaja status page
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -90,7 +90,7 @@ defaultContentLanguage: en
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-baseURL: https://cstate.mnts.lt
+baseURL: https://status.adrian.id.au
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -121,10 +121,12 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: East Coast      
+    - name: bchan
+      description: bchan is a free forum system for a group of high school friends.
+      closed: false
+    - name: PigeonProxy   
+      description: play shellshock.io with friends at school!
+      closed: false   
     - name: Uncategorized
       untitled: true
 
@@ -134,16 +136,20 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: East Coast
+    - name: Web server (Sydney)
+      description: Server running the website!
+      category: bchan
+    - name: Email server
+      description: Responsible for sending emails to users.
+      category: bchan
+    - name: CDN
+      description: Used to deliver images and other resources.
+      category: bchan
     - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+      description: API for people to integrate bchan with their own applications.
+      category: bchan
+    - name: PigeonProxy
+      category: PigeonProxy
 
   # What date format to use?
   #
@@ -161,7 +167,7 @@ params:
   #
   # Default: true
   # BOOLEAN; `true`, `false`
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 
   # Should incident history be separated
   # like in an archive view?
@@ -182,7 +188,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableIncidentHistory: false
+  disableIncidentHistory: true
 
   # Disable dark mode
   #
@@ -214,13 +220,13 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: logo.png
+  logo: logo.jpg
 
   # This is the description that is shown
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: if adrian stuffs a server up adrian will let you know and cry here.
 
   # Tabs on homepage
   # Uncomment to enable.
