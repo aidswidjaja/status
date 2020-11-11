@@ -1,0 +1,14 @@
+---
+title: bchan is slower
+date: 2020-11-11 11:59:08
+# Possible severity levels: down, disrupted, notice
+severity: disrupted
+affected:
+  - bchan
+  - Web server (Sydney)
+  - Email server
+  - CDN
+  - API
+section: issue
+---
+*Investigating:* bchan is currently on a bit on the slow side and you may experience more 502 Bad Gateway and 504 Gateway Timed Out issues than normal. 
