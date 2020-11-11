@@ -6,13 +6,22 @@
     <description>Recent content in CDN on aidswidjaja status page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2020 14:16:00 +0000</lastBuildDate><atom:link href="https://status.adrian.id.au/affected/cdn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 11:59:08 +0000</lastBuildDate><atom:link href="https://status.adrian.id.au/affected/cdn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bchan is slower</title>
+      <link>https://status.adrian.id.au/issues/bchan2020-11-11/</link>
+      <pubDate>Wed, 11 Nov 2020 11:59:08 +0000</pubDate>
+      
+      <guid>https://status.adrian.id.au/issues/bchan2020-11-11/</guid>
+      <description>Investigating: bchan is currently on a bit on the slow side and you may experience more 502 Bad Gateway and 504 Gateway Timed Out issues than normal.</description>
+    </item>
+    
     <item>
       <title>bchan is inaccessible</title>
-      <link>https://status.adrian.id.au/issues/bchan/</link>
+      <link>https://status.adrian.id.au/issues/bchan2020-10-31/</link>
       <pubDate>Sat, 31 Oct 2020 14:16:00 +0000</pubDate>
       
-      <guid>https://status.adrian.id.au/issues/bchan/</guid>
+      <guid>https://status.adrian.id.au/issues/bchan2020-10-31/</guid>
       <description>Resolved: thanks guys! We managed to get it back up and running by resetting the VM (haha turn your computer off and on again go brrrr) and that seems to have ironed out any problems it had before. We&amp;rsquo;re still seeing slightly more latency than usual (and you may get 502 Bad Gateway errors more often) but we&amp;rsquo;re hoping this evens out - we&amp;rsquo;re already seeing CPU usage gradually returning to normal.</description>
     </item>
     

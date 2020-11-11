@@ -6,11 +6,11 @@
     <description>Recent content in Affected on aidswidjaja status page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2020 14:16:00 +0000</lastBuildDate><atom:link href="https://status.adrian.id.au/affected/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 11:59:08 +0000</lastBuildDate><atom:link href="https://status.adrian.id.au/affected/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API</title>
       <link>https://status.adrian.id.au/affected/api/</link>
-      <pubDate>Sat, 31 Oct 2020 14:16:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2020 11:59:08 +0000</pubDate>
       
       <guid>https://status.adrian.id.au/affected/api/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>bchan</title>
       <link>https://status.adrian.id.au/affected/bchan/</link>
-      <pubDate>Sat, 31 Oct 2020 14:16:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2020 11:59:08 +0000</pubDate>
       
       <guid>https://status.adrian.id.au/affected/bchan/</guid>
       <description></description>
@@ -28,7 +28,7 @@
     <item>
       <title>CDN</title>
       <link>https://status.adrian.id.au/affected/cdn/</link>
-      <pubDate>Sat, 31 Oct 2020 14:16:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2020 11:59:08 +0000</pubDate>
       
       <guid>https://status.adrian.id.au/affected/cdn/</guid>
       <description></description>
@@ -37,7 +37,7 @@
     <item>
       <title>Email server</title>
       <link>https://status.adrian.id.au/affected/email-server/</link>
-      <pubDate>Sat, 31 Oct 2020 14:16:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2020 11:59:08 +0000</pubDate>
       
       <guid>https://status.adrian.id.au/affected/email-server/</guid>
       <description></description>
@@ -46,7 +46,7 @@
     <item>
       <title>Web server (Sydney)</title>
       <link>https://status.adrian.id.au/affected/web-server-sydney/</link>
-      <pubDate>Sat, 31 Oct 2020 14:16:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2020 11:59:08 +0000</pubDate>
       
       <guid>https://status.adrian.id.au/affected/web-server-sydney/</guid>
       <description></description>
